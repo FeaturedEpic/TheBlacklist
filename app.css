@@ -21,4 +21,5 @@ a.button {
   margin: 6px auto;
   max-width: 500px;
   box-sizing: border-box;
+  text-align: center;
 }
