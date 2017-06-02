@@ -23,3 +23,8 @@ a.button {
   box-sizing: border-box;
   text-align: center;
 }
+
+a.button:hover {
+  color: #b80103;
+  background-color: white;
+}
