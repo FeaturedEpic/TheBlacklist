@@ -56,20 +56,14 @@ h2#subtitle > a:hover {
   color: white;
 }
 
-a.button {
+h3.header {
   display: block;
   background-color: #b80103;
   padding: 6px 18px;
   color: white;
-  text-decoration: none;
   text-transform: uppercase;
   width: 100%;
   margin: 6px auto;
   box-sizing: border-box;
   text-align: center;
-}
-
-a.button:hover {
-  color: #b80103;
-  background-color: white;
 }
