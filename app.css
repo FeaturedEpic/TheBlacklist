@@ -1,5 +1,6 @@
 html, body {
   background-color: #24292e;
+  font-family: sans-serif;
 }
 
 img#logo {
@@ -7,4 +8,17 @@ img#logo {
   width: 90%;
   margin: 0 auto;
   max-width: 500px;
+}
+
+a.button {
+  display: block;
+  background-color: #b80103;
+  padding: 6px 18px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 88%;
+  margin: 6px auto;
+  max-width: 500px;
+  box-sizing: border-box;
 }
