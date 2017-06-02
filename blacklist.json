@@ -1,0 +1,28 @@
+{
+  "blacklist": [
+    {
+      "no": 4
+      "name": "Kathryn Nemec",
+      "status": "Deceased - Suicide",
+      "nationality": "United States of America",
+      "episode": "S04E21 - Mr. Kaplan",
+      "first": "S01E10 - Anslo Garrick Conclusion"
+    },
+    {
+      "no": 7,
+      "name": "Tom Keen",
+      "status": "Alive",
+      "nationality": "United States of America",
+      "episode": "S02E16 - Tom Keen",
+      "first": "S01E01 - Pilot"
+    },
+    {
+      "no": 8,
+      "name": "Milos Kirchoff",
+      "status": "Dead - Killed by Reddington",
+      "nationality": "Russian Federation",
+      "episode": "S01E21 - Berlin",
+      "first": "S01E21 - Berlin"
+    }
+  ]
+}
