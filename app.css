@@ -3,11 +3,49 @@ html, body {
   font-family: sans-serif;
 }
 
-img#logo {
+body {
+  display: flex;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
   display: block;
   width: 90%;
   margin: 0 auto;
   max-width: 500px;
+}
+
+@media screen and (min-width: 1200px) {
+  main {
+    min-width: 650px;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  main {
+    min-width: 1000px;
+  }
+}
+
+img#logo {
+  display: block;
+  width: 100%;
+}
+
+h2#subtitle {
+  color: white;
+  font-size: 0.8em;
+  text-align: right;
+}
+
+h2#subtitle > a {
+  color: #b80103;
+  text-decoration: none;
+}
+
+h2#subtitle > a:hover {
+  color: white;
 }
 
 a.button {
@@ -17,9 +55,8 @@ a.button {
   color: white;
   text-decoration: none;
   text-transform: uppercase;
-  width: 88%;
+  width: 100%
   margin: 6px auto;
-  max-width: 500px;
   box-sizing: border-box;
   text-align: center;
 }
