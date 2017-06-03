@@ -6,7 +6,8 @@
       "status": "Deceased - Suicide",
       "nationality": "United States of America",
       "episode": "S04E21 - Mr. Kaplan",
-      "first": "S01E10 - Anslo Garrick Conclusion"
+      "first": "S01E10 - Anslo Garrick Conclusion",
+      "image": "https://vignette3.wikia.nocookie.net/blacklist/images/a/ae/Mr._Kaplan.jpg"
     },
     {
       "no": 7,
@@ -14,7 +15,8 @@
       "status": "Alive",
       "nationality": "United States of America",
       "episode": "S02E16 - Tom Keen",
-      "first": "S01E01 - Pilot"
+      "first": "S01E01 - Pilot",
+      "image": "https://vignette4.wikia.nocookie.net/blacklist/images/1/1e/Tom_Keen.png"
     },
     {
       "no": 8,
@@ -22,7 +24,8 @@
       "status": "Dead - Killed by Reddington",
       "nationality": "Russian Federation",
       "episode": "S01E21 - Berlin",
-      "first": "S01E21 - Berlin"
+      "first": "S01E21 - Berlin",
+      "image": "https://vignette2.wikia.nocookie.net/blacklist/images/c/c5/Milos_Kirchoff.png"
     }
   ]
 }
