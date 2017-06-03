@@ -73,3 +73,17 @@ h3.header {
   box-sizing: border-box;
   text-align: center;
 }
+
+section.blacklisters {
+  display: flex;
+  flex-wrap: wrap;
+
+div.blacklister {
+  display: block;
+  background-color: #b80103;
+  color: white;
+  text-align: center;
+  width: 50%;
+  display: flex;
+  flex: 1 0 auto;
+}
